@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMVInsuranceAngularTest", "NMVInsuranceAngularTest\NMVInsuranceAngularTest.csproj", "{3DF4245D-9BEB-4E99-AD85-2104CAE4BFDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF4245D-9BEB-4E99-AD85-2104CAE4BFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF4245D-9BEB-4E99-AD85-2104CAE4BFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF4245D-9BEB-4E99-AD85-2104CAE4BFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF4245D-9BEB-4E99-AD85-2104CAE4BFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {572D8B72-2A1F-4CFE-9AB0-17D1D701B411}
+	EndGlobalSection
+EndGlobal
